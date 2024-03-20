@@ -84,3 +84,5 @@ Pelaez Flores Jhonatan 21212017
 
     return 0;
 	}
+
+<img width="313" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/288ed64b-0fc4-43ef-8edf-aa2707262893">
