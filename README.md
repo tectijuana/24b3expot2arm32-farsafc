@@ -41,6 +41,7 @@ Pelaez Flores Jhonatan 21212017
 <pre>
 
 	<p align=left>
+		
 ![image](https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/105456145/92efa860-5792-482c-8e0b-2b3c2cfa3659)
 
 <img width="704" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/5baf15b3-040a-43d3-96d7-0e790d74a033">
@@ -57,3 +58,32 @@ Pelaez Flores Jhonatan 21212017
 <img width="710" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/9cb29eac-5124-4ae3-9b16-37549fb7142d">
 <img width="705" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/dc5278a7-041f-41aa-acfc-694a54ee3490">
 <img width="708" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/6e4f41d5-c28a-4fea-b698-a97b28ad2555">
+
+
+## Programa en C
+		
+#include <stdio.h>
+
+int main() {
+    int array[5] = {1, 2, 3, 4, 5};
+    int *ptr = array; // El nombre de un array se comporta como un puntero al primer elemento
+
+    // Acceso a elementos del array mediante índices
+    printf("Elemento 3 del array: %d\n", array[2]);
+
+    // Acceso a elementos del array mediante punteros
+    printf("Elemento 3 del array (usando puntero): %d\n", *(ptr + 2));
+
+    // Manipulación de arrays
+    array[0] = 10;
+    *(ptr + 1) = 20;
+
+    // Imprimir el array modificado
+    printf("Array modificado: ");
+    for (int i = 0; i < 5; i++) {
+        printf("%d ", array[i]);
+    }
+    printf("\n");
+
+    return 0;
+}
