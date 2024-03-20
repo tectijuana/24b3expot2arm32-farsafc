@@ -28,7 +28,11 @@ Ejercicios ......
 
 Estudiante:
 Aguilar Orozco Jose Miguel 21211905
+Gutierrez Agaton Daniel
+Gutierrez Pascual Jorge
 Inzunza Montaño Erick Geovany 21211968
+Pelaez Flores Jhonatan
+
 
 	</p>
 
