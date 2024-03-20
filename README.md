@@ -1,4 +1,42 @@
 
+------
+
+<pre>
+
+	<p align=center>
+
+Tecnológico Nacional de México
+Instituto Tecnológico de Tijuana
+
+Departamento de Sistemas y Computación
+Ingeniería en Sistemas Computacionales
+
+Semestre:
+Febrero - Junio 2022
+
+Materia:
+Lenguajes de interfaz
+
+Docente:
+M.C. Rene Solis Reyes 
+
+Unidad:
+1
+
+Título del trabajo:
+Ejercicios ......
+
+Estudiante:
+Aguilar Orozco Jose Miguel 21211905
+Inzunza Montaño Erick Geovany 21211968
+
+	</p>
+
+</pre>
+
+<pre>
+
+	<p align=left>
 ![image](https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/105456145/92efa860-5792-482c-8e0b-2b3c2cfa3659)
 
 <img width="704" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/5baf15b3-040a-43d3-96d7-0e790d74a033">
