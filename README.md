@@ -38,9 +38,6 @@ Pelaez Flores Jhonatan 21212017
 
 </pre>
 
-<pre>
-
-	<p align=left>
 		
 ![image](https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/105456145/92efa860-5792-482c-8e0b-2b3c2cfa3659)
 
@@ -62,13 +59,13 @@ Pelaez Flores Jhonatan 21212017
 
 ## Programa en C
 		
-#include <stdio.h>
+	#include <stdio.h>
 
-int main() {
+	int main() {
     int array[5] = {1, 2, 3, 4, 5};
     int *ptr = array; // El nombre de un array se comporta como un puntero al primer elemento
-
-    // Acceso a elementos del array mediante índices
+    
+    //Acceso a elementos del array mediante índices
     printf("Elemento 3 del array: %d\n", array[2]);
 
     // Acceso a elementos del array mediante punteros
@@ -86,4 +83,4 @@ int main() {
     printf("\n");
 
     return 0;
-}
+	}
