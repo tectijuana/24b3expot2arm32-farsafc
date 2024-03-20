@@ -1,6 +1,5 @@
 
 ![image](https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/105456145/92efa860-5792-482c-8e0b-2b3c2cfa3659)
-#Precentacion ##
 
 <img width="704" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/5baf15b3-040a-43d3-96d7-0e790d74a033">
 <img width="708" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/22c74ee6-1deb-4b6d-9714-1caeb96935e4">
