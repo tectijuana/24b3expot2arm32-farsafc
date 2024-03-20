@@ -24,9 +24,9 @@ Unidad:
 1
 
 Título del trabajo:
-Ejercicios ......
+Exposición
 
-Estudiante:
+Equipo:
 Aguilar Orozco Jose Miguel 21211905
 Gutierrez Agaton Daniel 21211958
 Gutierrez Pascual Jorge 21211960
