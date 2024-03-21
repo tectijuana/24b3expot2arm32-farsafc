@@ -73,7 +73,7 @@ Pelaez Flores Jhonatan 21212017
             }
         }
     }
-}
+	}
 
 	int main() {
     int array[] = {64, 34, 25, 12, 22, 11, 90};
