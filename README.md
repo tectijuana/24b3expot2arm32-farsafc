@@ -61,23 +61,35 @@ Pelaez Flores Jhonatan 21212017
 		
 	#include <stdio.h>
 
+	void bubble_sort(int array[], int size) {
+    int i, j, temp;
+    for (i = 0; i < size - 1; i++) {
+        for (j = 0; j < size - i - 1; j++) {
+            if (array[j] > array[j + 1]) {
+                // Intercambia los elementos si están en el orden incorrecto
+                temp = array[j];
+                array[j] = array[j + 1];
+                array[j + 1] = temp;
+            }
+        }
+    }
+}
+
 	int main() {
-    int array[5] = {1, 2, 3, 4, 5};
-    int *ptr = array; // El nombre de un array se comporta como un puntero al primer elemento
+    int array[] = {64, 34, 25, 12, 22, 11, 90};
+    int size = sizeof(array) / sizeof(array[0]);
     
-    //Acceso a elementos del array mediante índices
-    printf("Elemento 3 del array: %d\n", array[2]);
+    printf("Array original:\n");
+    for (int i = 0; i < size; i++) {
+        printf("%d ", array[i]);
+    }
+    printf("\n");
 
-    // Acceso a elementos del array mediante punteros
-    printf("Elemento 3 del array (usando puntero): %d\n", *(ptr + 2));
+    // Ordena el array utilizando el algoritmo de burbuja
+    bubble_sort(array, size);
 
-    // Manipulación de arrays
-    array[0] = 10;
-    *(ptr + 1) = 20;
-
-    // Imprimir el array modificado
-    printf("Array modificado: ");
-    for (int i = 0; i < 5; i++) {
+    printf("Array ordenado:\n");
+    for (int i = 0; i < size; i++) {
         printf("%d ", array[i]);
     }
     printf("\n");
@@ -85,4 +97,4 @@ Pelaez Flores Jhonatan 21212017
     return 0;
 	}
 
-<img width="313" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/288ed64b-0fc4-43ef-8edf-aa2707262893">
+<img width="244" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/6849bc8f-0e1e-4c7c-a897-afe415b9b845">
