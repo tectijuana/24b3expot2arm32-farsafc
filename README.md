@@ -1,36 +1,4 @@
 
-<!---
-   Para comentarios usar este bloque para documentar pendientes, secuencias, etc.
---->
-
-
-![](https://s3.amazonaws.com/videos.pentesteracademy.com/videos/badges/low/arm-assembly.png)
-
-Borrar y modificar README
-
-# Utilizar los dos directorios
-
-- code  - ahi depositar sus programas los ***archivos extensión *.s****  (Source File) algunos autores en x86 de ponen .asm y en otras plataformas ARM compatibles la extension *.s
-- Todo programa lleva su comentario en la parte de arriba, objetivo y nombre del programador minimo, como templete
-- images  - de haber algo de pantallas ahi se presentaran, su busca documentarlas en MARKDOWN el código es:
-
-``` ![](images/---archivo.jpg---) recordar que no lleva espacios```
-
-<!---
-  Los nombres de las imagenes no deben cambiar de preferenci el nombre del programa como:  KIOSKO.cpp (su pantallas serian KISOCO.jpg, KIOSCO-1.jpg, KIOSCO-2.jpg ... )
-  Y asi procurar estar agrupados.
---->
-
-
-
-- Programa en MarkDown es inicia con tres tildes * (`) sin espacio, seguido de el lenguaje de programacion, al final del codigo se poner otra vez los mismos tilder..
-
-No se usan espacios en nombres de archivos, usar los nombres estilo camelCase (primera palabra minusculas, mayuscula solo la 1ra letra de cada palabra subsecuente):  ejemplo: sensorHumo, etc.
-
-Suerte.
-
-
-
 ------
 
 <pre>
@@ -56,79 +24,77 @@ Unidad:
 1
 
 Título del trabajo:
-Ejercicios ......
+Exposición
 
-Estudiante:
-.......
+Equipo:
+Aguilar Orozco Jose Miguel 21211905
+Gutierrez Agaton Daniel 21211958
+Gutierrez Pascual Jorge 21211960
+Inzunza Montaño Erick Geovany 21211968
+Pelaez Flores Jhonatan 21212017
 
-	</p>
-
-</pre>
-
-<pre>
-
-	<p align=left>
-
-Repositorio en el cual se desarrollaron distintos ejercicios en el lenguaje de 
-programacion c++, tomados del libro "Problemas para resolver con computadora" 
-1ra edicion (1985), por el autor Donald D. Spencer. 
-
-Los ejercicios corresponden al capitulo 6 del libro, entre las paginas 77 a 86.
-Se realizaron 25 problemas debido a la entrega fuera del limite de tiempo.
-
-CONDICIONES:
-
-	EXTEMPORÁNEOS DE LA FECHA DE ENTREGA, despues del 25 de marzo y 1 segundo:
-
-	-Solo 25 problemas a resolver y están en aleatorio las condiciones de uso, 
-		algunos simples otros de recordar, etc. CAPITULO 6 en adelante.
-
-	-Agregar las indicaciones de los criterios de la rùbrica
-	
-RÚBRICA:
-
-        Todo problema es necesario siga el templete OBLIGATORIO para entregar el 
-		problema codificado, usted puede correr sus programas con su estilo 
-		pero ya que este funcionando, debe arreglarlo a presentación para su 
-		evaluación.
-
-        MODIFICAR LA PORTADA CON MARKDOWN Y ACTUALIZARLA, esta libre de cambiar 
-		todo.
-        Los archivos deben tener su extensión .CPP (no .txt, etc.)
-
-	Los problemas están en la relación siguiente:
-	
-	- 100% Sigue el templete proporcionado por el docente y corren 10 
-		Problemas (o si incremento en programas por supuesta dificultad) 
-		completamente en GITHUB Classroom (no repositorio personal),  los 
-		archivos deben tener su extensión .CPP (no .txt, .EXE, etc.) acomodados 
-		en dentro de un directorio  (sin acentos o simbolos) SOLO FUENTES, y 
-		modifica el README.md que sea una portada.
-	- 80% Sigue el templete proporcionado por el docente y corre 8 Problemas 
-		(o si incremento en programas por supuesta dificultad) completamente 
-		en GITHUB Classroom (no repositorio personal), los archivos deben 
-		tener su extensión .CPP (no .txt, etc.) acomodados en dentro de un 
-		directorio (sin acentos o simbolos) SOLO FUENTES, y modifica el 
-		README.md que sea una portada.
-	- 70% Sigue el templete proporcionado por el docente y corre 7 Problemas 
-		(o si incremento en programas por supuesta dificultad) completamente 
-		en GITHUB Classroom (no repositorio personal), los archivos deben 
-		tener su extensión .CPP (no .txt, etc.) acomodados en dentro de un 
-		directorio (sin acentos o simbolos) SOLO FUENTES, y modifica el 
-		README.md que sea una portada.
-	- 50 % EVITA Y NO USA el templete proporcionado por el docente sus Problemas 
-		(o si incremento en programas por supuesta dificultad) completamente 
-		en GITHUB Classroom (no repositorio personal) con mas de 7 problemas 
-		resueltos, los archivos NO tener su extensión .CPP y  puede o no estar 
-		acomodados en dentro de un directorio (sin acentos o simbolos) 
-		SOLO FUENTES, y modifica el README.md que sea una portada.
-
-ENTREGA:
-
-	URL del GitHub Classroom, y recuerde arreglar la PORTADA, quitar todos los 
-		elementos extras del templete, acomodarlo bien para su presentación 
-		solo lo necesario.
 
 	</p>
 
 </pre>
+
+		
+![image](https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/105456145/92efa860-5792-482c-8e0b-2b3c2cfa3659)
+
+<img width="704" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/5baf15b3-040a-43d3-96d7-0e790d74a033">
+<img width="708" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/22c74ee6-1deb-4b6d-9714-1caeb96935e4">
+<img width="712" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/11a57d1f-514a-4014-abbd-891267372b38">
+<img width="708" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/5319661e-b8e1-46fb-a5be-04e9ca303b9e">
+<img width="705" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/9be9af21-34e5-4772-b987-649086429a33">
+<img width="705" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/a6b51e0c-1fb8-46f3-8c87-9e5a666558ed">
+<img width="700" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/faaf11fe-c63e-43b3-9182-f70853e49a53">
+<img width="706" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/d72ae378-b488-4e5a-9fc0-733cd2cb7b35">
+<img width="707" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/6bc2bb86-52d4-4c0a-87b4-c525d90eaa3e">
+<img width="702" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/3a3314c8-06cb-498b-86b2-49a5d2e2464e">
+<img width="705" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/3daf16ef-3dc7-419b-9a73-6f72d612d44f">
+<img width="710" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/9cb29eac-5124-4ae3-9b16-37549fb7142d">
+<img width="705" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/dc5278a7-041f-41aa-acfc-694a54ee3490">
+<img width="708" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/6e4f41d5-c28a-4fea-b698-a97b28ad2555">
+
+
+## Programa en C
+		
+	#include <stdio.h>
+
+	void bubble_sort(int array[], int size) {
+    int i, j, temp;
+    for (i = 0; i < size - 1; i++) {
+        for (j = 0; j < size - i - 1; j++) {
+            if (array[j] > array[j + 1]) {
+                // Intercambia los elementos si están en el orden incorrecto
+                temp = array[j];
+                array[j] = array[j + 1];
+                array[j + 1] = temp;
+            }
+        }
+    }
+	}
+
+	int main() {
+    int array[] = {64, 34, 25, 12, 22, 11, 90};
+    int size = sizeof(array) / sizeof(array[0]);
+    
+    printf("Array original:\n");
+    for (int i = 0; i < size; i++) {
+        printf("%d ", array[i]);
+    }
+    printf("\n");
+
+    // Ordena el array utilizando el algoritmo de burbuja
+    bubble_sort(array, size);
+
+    printf("Array ordenado:\n");
+    for (int i = 0; i < size; i++) {
+        printf("%d ", array[i]);
+    }
+    printf("\n");
+
+    return 0;
+	}
+
+<img width="244" alt="image" src="https://github.com/tectijuana/24b3expot2arm32-farsafc/assets/158230373/6849bc8f-0e1e-4c7c-a897-afe415b9b845">
